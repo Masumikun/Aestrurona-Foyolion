@@ -1,0 +1,52 @@
+---
+date created: Wednesday, 22nd ✦ Oct┆2025 ➣ 19▫24▫43 
+date modified: Wednesday, 22nd ✦ Oct┆2025 ➣ 21▫54▫39 
+---
+# Idéias
+- [I] Entidades são grimório do mago
+	- [i] Grimório do mago que invoca a entidade (independente se vivo ou morto)
+- [I] Mago e sobre ele
+	- [i] Aquele que um só com seu grimório
+	- [i] Morreu e virou poeira estrelar
+	- [i] Grimório viro uma planta mística
+- [I] 5° Irmãos Quânticos
+	- [i] Ladino
+		- [i] chora pela perda do 6° Irmão
+	- [i] Andarilho
+		- [i] sempre trás morte pacifica
+	- [i] Combatente
+		- [i] gritos em silencios
+	- [i] Feiticeiro
+		- [i] desaparecimentos mútuos
+	- [i] Devoto
+		- [i] crença absoluta
+- [I] Forja da Evolução
+	- [i] Morte pela Espada Negra 
+		- [i] Era odiado pelo Espada Negra por representação da mudança
+	- [i] Era visto como ilusão para humanidade
+	- [i] 6° Irmão Quântico
+- [I] Chamas ardentes
+	- [i] Visto como hydra de varias cabeças
+	- [i] Dores e mortes envolvendo elementos
+	- [i] Manifestação na cabeça dos inimigos como um ser varias personalidades
+- [I] Escudo Estrelado
+	- [i] Curador de feridas e abraçador
+	- [i] Companheiro de Forja da Evolução
+	- [i] Parceiro do Tornado Morto
+	- [i] Trauma com morte de Forja Evolução
+- [I] O Tornado Morto
+	- [i] Parceiro de Escudo Estrelado
+	- [i] Visto como dominante do Vento
+	- [i] Aquele com asas de ferro/aço que cortam
+	- [i] Carregando vingança pelo Espada Negra pela morte de um amigo
+- [I] Espada Negra
+	- [i] Odio por Evoluir e mudar
+	- [i] Nascido pós a mudança, mas não queria
+	- [i] Apenas matou todos sem hesitar
+- [I] Muralha Rúnica
+	- [i] Parceiro de Forja da Evolução
+	- [i] O maior tank do time
+	- [i] Aquele que faz até os inimigos mais forte o temerem
+- [I] Kiro
+
+
