@@ -1,12 +1,12 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫36 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫36 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫19 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫19 
 ---
 ## Relógio
 > Previsão de Tempo do jogo sendo aquele que estabelecendo um guia de balança no jogo
 
 **Função** ➣ Equilíbrio de tempo
-- [Dia](obsidian://open?vault=Imnothuman&file=0.%20Inbox%2FDay%20Func)
+- [Dia](obsidian://open?vault=Obsidian&file=1.%20Projects%2FImnothuman%2F0.%20Inbox%2FDay%20Func)
 	- Sistema de energia vai aparecer
 - Tarde
 	- Sistema de energia ainda continua

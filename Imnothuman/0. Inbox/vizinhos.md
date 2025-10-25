@@ -1,6 +1,6 @@
 ---
-date created: Friday, 17th ✦ Oct┆2025 ➣ 03▫11▫11 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 00▫36▫13 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫38 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫38 
 ---
 # Vizinhos
 ## Vizinhos

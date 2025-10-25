@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 11▫11▫33 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 11▫11▫33 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫43 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫43 
 tags:
   - NeworldTale
 status:
@@ -30,7 +30,7 @@ Quando caiu a criança que era grande conhecido lutador dos punhos massivo era g
 - ✉️ **Carta**
 	- [i] Nossa grande ==filha mágica sempre== chamamos de floco de neve, muita vezes apelidamos de floco abraçador.<br>
 	Houve um ==desaparecimento nossa época== pela grande demanda de procura de crianças era definidas ***salvadoras*** ou ***jogadas*** ao limbo para um ==deus chamado Rumaryn Hapon==<br>
-	==As das ***salvação***== era mortas para mantemos vivos enquanto as dos ===***limbo*** era definidas== como trazedores de **decadência**<br>
+	==As das ***salvação***== era mortas para mantemos vivos enquanto as dos ==***limbo*** era definidas== como trazedores de **decadência**<br>
 	Se trazerem a nós, iremos pagar uma recompensa<br><br>
 	PS: ==Rasurado por causa do tempo==
 
@@ -41,3 +41,5 @@ Quando caiu a criança que era grande conhecido lutador dos punhos massivo era g
 
 Quando desceu os monstro que enfrentaram diante um humano nada **calmo** ainda mais que era **agressivo** em seus ataques pareciam rochas do que antigos **gelos** e **abraçadores**, enquanto Toriel o viu pela primeiras vezes, tentou ensinar usa menos a **porradaria**, mas ele era destemido acabou derrubado Toriel, quando saiu deu de cara com povo do gelo, mas claramente alguém acabou o avistando...
 
+## Honrado Na Coragem
+Papyrus ➣ *Risada característica*

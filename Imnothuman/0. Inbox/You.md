@@ -1,6 +1,6 @@
 ---
-date created: Friday, 17th ✦ Oct┆2025 ➣ 02▫43▫27 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 12▫42▫18 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫48 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫48 
 ---
 ## You
 **Função** ➣ Você possui 5⚡ como de costume

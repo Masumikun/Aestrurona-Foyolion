@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫47▫34 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫47▫34 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫40 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫40 
 ---
 # Cigarro
 **Função** ➣ O dia passa voado como se loucuras tivesse sendo tudo na boa

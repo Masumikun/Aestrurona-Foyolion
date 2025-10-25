@@ -1,6 +1,6 @@
 ---
-date created: Friday, 17th ✦ Oct┆2025 ➣ 02▫20▫01 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 02▫05▫23 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫01 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫01 
 tags:
   - "#Gamer"
   - Ideia

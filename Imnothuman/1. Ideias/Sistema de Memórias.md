@@ -1,6 +1,6 @@
 ---
-date created: Monday, 20th ✦ Oct┆2025 ➣ 01▫58▫52 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 02▫06▫08 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫07 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫07 
 ---
 ## Fragmentos De Lore:
 

@@ -1,6 +1,6 @@
 ---
-date created: Saturday, 18th ✦ Oct┆2025 ➣ 22▫36▫51 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 02▫06▫43 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫34 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫34 
 ---
 
 **Função** ➣ Viciante perigoso que fica prendendo os seus usuários em vida de bebidas

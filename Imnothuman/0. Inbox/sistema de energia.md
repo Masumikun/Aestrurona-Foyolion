@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫50▫17 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫50▫17 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫32 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫32 
 ---
 # Energia
 O sistema de energia tem **recurso** de energia(⚡)

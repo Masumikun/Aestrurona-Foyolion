@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 09▫31▫37 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 09▫31▫37 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫29 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫29 
 tags:
   - NeworldTale
 status: 📄 Rascunho
@@ -23,7 +23,7 @@ Sans ➣ ❝Por que nos observa?❞ *Pergunta, desconfiado*
 ??? ➣ ❝Apenas registro as ações de cada um❞ *Responde com confiança*
 
 Apesar do incômodo, **Sans** aceitou. Com o tempo, humanos que morriam e caíam no novo subsolo - agora habitado por monstros - transformaram o local em caos por ação de almas <span style="color: rgb(192,192,192)">Void</span>. O ar encheu-se de poeira até que o robô foi derrotado.
-[[../Ideias/Conceitos Mecânicos/Mecanismo da Alma|Soul Configuration]]
+[[Mecanismo da Alma|Soul Configuration]]
 
 ---
 ## Novos Trilhos

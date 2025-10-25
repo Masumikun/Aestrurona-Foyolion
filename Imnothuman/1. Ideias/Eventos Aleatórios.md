@@ -1,6 +1,6 @@
 ---
-date created: Monday, 20th ✦ Oct┆2025 ➣ 01▫58▫38 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 20▫54▫26 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫58 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫58 
 ---
 ## Eventos Baseados Em Condições:
 

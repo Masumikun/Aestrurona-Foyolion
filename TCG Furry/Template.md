@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫25 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫25 
 ---
 # TCG
 ## Ilustração Main
@@ -18,7 +18,7 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 ### Tipos De Cartas
 **Nome da carta** ➣ \[***Preencher***\]
 **Tipo da carta** ➣ \[***Preencher***\]
-**Consumo** ➣ \[***Preencher***\]
+**Consumo** ➣ ⚡\[***Preencher***\]
 - **Slots**
 	- \[***Preencher***\]
 	- \[***Preencher***\]
@@ -26,9 +26,11 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 	- \[***Preencher***\]
 	- \[***Preencher***\]
 
-**Ofensivo** ➣ \[***Preencher***\]
-**Defensivo** ➣ \[***Preencher***\]
-**Auxiliar** ➣ \[***Preencher***\]
+**Ofensivo** ➣ ⚔️\[***Preencher***\]
+**Defensivo** ➣ 🛡️\[***Preencher***\]
+**Auxiliar** ➣ 💫\[***Preencher***\]
+**Skill** ➣ \[***Preencher***\]
+**Power** ➣ \[***Preencher***\]
 
 **Imagem** ➣ \[***Preencher***\]
 **Descrição/Especialidades** ➣ \[***Preencher***\]
@@ -36,8 +38,8 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 ### Tipo De Condições
 **Nome da carta** ➣ \[***Preencher***\]
 **Tipo da carta** ➣ \[***Preencher***\]
-**Consumo** ➣ \[***Preencher***\]
-**Turns** ➣ \[***Preencher***\]
+**Consumo** ➣ ⚡\[***Preencher***\]
+**Turns** ➣ ⏳\[***Preencher***\]
 
 **Imagem** ➣ \[***Preencher***\]
 **Descrição/Especialidades** ➣ \[***Preencher***\]
@@ -45,8 +47,8 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 ### Tipo De Efeitos
 **Nome da carta** ➣ \[***Preencher***\]
 **Tipo da carta** ➣ \[***Preencher***\]
-**Consumo** ➣ \[***Preencher***\]
-**Turns** ➣ \[***Preencher***\]
+**Consumo** ➣ ⚡\[***Preencher***\]
+**Turns** ➣ ⏳\[***Preencher***\]
 
 **Imagem** ➣ \[***Preencher***\]
 **Descrição/Especialidades** ➣ \[***Preencher***\]
@@ -55,7 +57,7 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 #### Itens De Uso
 **Nome da carta** ➣ \[***Preencher***\]
 **Tipo da carta** ➣ \[***Preencher***\]
-**Consumo** ➣ \[***Preencher***\]
+**Consumo** ➣ ⚡\[***Preencher***\]
 
 **Imagem** ➣ \[***Preencher***\]
 **Descrição/Especialidades** ➣ \[***Preencher***\]
@@ -63,7 +65,7 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 #### Itens De Utilidades
 **Nome da carta** ➣ \[***Preencher***\]
 **Tipo da carta** ➣ \[***Preencher***\]
-**Consumo** ➣ \[***Preencher***\]
+**Consumo** ➣ ⚡\[***Preencher***\]
 
 **Imagem** ➣ \[***Preencher***\]
 **Descrição/Especialidades** ➣ \[***Preencher***\]
@@ -79,6 +81,8 @@ date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫28▫53
 
 > Caso for de benéfico/malefício
 
-**Ofensivo** ➣ \[***Preencher***\]
-**Defensivo** ➣ \[***Preencher***\]
-**Auxiliar** ➣ \[***Preencher***\]
+**Ofensivo** ➣ ⚔️\[***Preencher***\]
+**Defensivo** ➣ 🛡️\[***Preencher***\]
+**Auxiliar** ➣ 💫\[***Preencher***\]
+**Skill** ➣ \[***Preencher***\]
+**Power** ➣ \[***Preencher***\]

@@ -1,6 +1,6 @@
 ---
-date created: Monday, 20th ✦ Oct┆2025 ➣ 01▫46▫22 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 02▫05▫58 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫09 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫44▫09 
 ---
 ## Reputação Com Espécies:
 

@@ -1,6 +1,6 @@
 ---
-date created: Sunday, 19th ✦ Oct┆2025 ➣ 02▫54▫00 
-date modified: Monday, 20th ✦ Oct┆2025 ➣ 20▫54▫16 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫56 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫56 
 ---
 # Ideia 1
 Excelentes evoluções! Você expandiu muito bem o sistema com a loja, economia e detalhou os comportamentos dos vizinhos. Vejo que está criando um projeto muito coerente e atmosférico. Aqui está minha análise detalhada:

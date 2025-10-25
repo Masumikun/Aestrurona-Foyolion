@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫47▫24 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫47▫24 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫13 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫13 
 ---
 # Árvore
 ## Árvore

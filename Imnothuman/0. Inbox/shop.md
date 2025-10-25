@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫45 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫45 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫28 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫28 
 ---
 ## Shop
 [[Chá de bolhas]] ➣ 🪙20 (*Human*) 🪙6 (*Furry*)

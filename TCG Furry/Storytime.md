@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫29▫07 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 14▫29▫07 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫13 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫13 
 ---
 # Sinergias
 ## Lore
@@ -33,7 +33,7 @@ Enquanto os historiadores estava em descobrindo avistaram um último livro que e
 Único suspiro de um senhor de idade perto da lírios brilhosos que **invocou entidades** e era **real livro de magia** da invocação diante dos falso que só eram apenas informações.
 Nasceu um **Coelho** e **Avali** do último suspiro do mago e ainda ele se foi como ***poeira do espaço*** e seu grimório se tornou um **lírio de aranha azul**
 
-**Ambiente**: [[../../2. Ideias/RPG Mesa/Lugares/Céu Gélido das Montanhas Altas|Montanha]]
+**Ambiente**: [[Céu Gélido das Montanhas Altas|Montanha]]
 Que vocês irão fazer?
 
 <br>

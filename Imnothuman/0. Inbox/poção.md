@@ -1,6 +1,6 @@
 ---
-date created: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫31 
-date modified: Thursday, 23rd ✦ Oct┆2025 ➣ 08▫49▫31 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫52 
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫52 
 ---
 ## Poção
 **Função** ➣ Satisfatório que traz um ar de descanso mental.
