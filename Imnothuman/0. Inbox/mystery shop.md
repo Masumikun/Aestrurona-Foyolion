@@ -1,6 +1,6 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫50 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫50 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 21▫30▫50
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 21▫30▫50
 tipo:
   - evento/loja
 categoria:
@@ -14,6 +14,7 @@ tags:
   - misterioso
   - risco
 ---
+
 # 🏪 Loja Noturna - {{data_do_jogo}}
 
 ## 🎭 Vendedor Misterioso

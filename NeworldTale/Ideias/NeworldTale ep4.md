@@ -1,11 +1,12 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫43 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫46▫43 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫14▫49
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫14▫49
 tags:
   - NeworldTale
 status:
   - 📝 Incompleto
 ---
+
 # Perdas & Guerras
 ## Medo Agoniante
 - *Era **18XX** à **20XX***

@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫40 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫40 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫31
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫31
 ---
+
 # Cigarro
 **Função** ➣ O dia passa voado como se loucuras tivesse sendo tudo na boa
 **Consumo** ➣ Recupera toda energia, mas no próximo dia vai ter -1⚡ permanente

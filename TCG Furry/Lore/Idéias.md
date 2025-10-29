@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫54▫55 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫54▫55 
+date created: Monday, 27th ✦ Oct┆2025 ➣ 11▫20▫43
+date modified: Monday, 27th ✦ Oct┆2025 ➣ 11▫20▫43
 ---
+
 # Idéias
 - [I] Entidades são grimório do mago
 	- [i] Grimório do mago que invoca a entidade (independente se vivo ou morto)

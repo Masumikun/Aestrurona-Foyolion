@@ -1,8 +1,9 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 13▫39▫22 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫55▫14 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 13▫39▫22
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫03▫34
 ---
-**Nome da carta** ➣ Faca Comum
+
+**Nome da carta** ➣ Faca
 **Tipo da carta** ➣ Ofensivo
 **Consumo** ➣ ⚡3
 - **Slots**

@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫45▫40 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫45▫40 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫15▫04
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫15▫04
 ---
+
 # Souls
 ![[Patience.png]]
 <span style="color:rgb(0, 255, 255)">Patience</span>

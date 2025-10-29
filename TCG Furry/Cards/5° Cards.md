@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 16▫05▫00 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫55▫26 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 16▫05▫00
+date modified: Monday, 27th ✦ Oct┆2025 ➣ 22▫34▫46
 ---
+
 **Nome da carta** ➣ Armadura
 **Tipo da carta** ➣ Item/Equipamentos
 **Consumo** ➣ ⚡0

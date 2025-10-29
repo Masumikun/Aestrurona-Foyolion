@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫13 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫42▫13 
+date created: Sunday, 26th ✦ Oct┆2025 ➣ 00▫03▫28
+date modified: Sunday, 26th ✦ Oct┆2025 ➣ 00▫03▫28
 ---
+
 # Árvore
 ## Árvore
 **Função** ➣ Local seguro para refúgio do personagem 

@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫58 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫58 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫51
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫51
 ---
+
 ## Eventos Baseados Em Condições:
 
 **Chuva Forte:**

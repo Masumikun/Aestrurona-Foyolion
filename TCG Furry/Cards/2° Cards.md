@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫55▫07 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫55▫07 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫02▫34
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫02▫34
 ---
+
 # 2° Cards
 **Nome da carta** ➣ *Dano Mágico* \[<span style="color:rgb(255, 218, 127)">Luz</span>\]
 **Tipo da carta** ➣ Condição Mágica 

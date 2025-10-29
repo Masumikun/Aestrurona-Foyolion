@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫54▫52 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫54▫52 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫01▫28
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫01▫28
 ---
+
 # 1° Cards
 
 **Nome da carta** ➣ Kiro
@@ -10,7 +11,7 @@ date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫54▫52
 - **Slots**
 	- [[2° Cards]]
 	- [[5° Cards]]
-	- \[***Preencher***\]
+	- [[7° Cards]]
 	- \[***Preencher***\]
 	- \[***Preencher***\]
 

@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫25 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 18▫01▫25 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 20▫59▫46
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 20▫59▫46
 ---
+
 # TCG
 ## Ilustração Main
 **Nome do jogo** ➣ \[***Preencher***\]

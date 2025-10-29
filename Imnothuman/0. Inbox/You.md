@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫48 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫43▫48 
+date created: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫36
+date modified: Saturday, 25th ✦ Oct┆2025 ➣ 20▫42▫36
 ---
+
 ## You
 **Função** ➣ Você possui 5⚡ como de costume
 **Consumo** ➣ [[árvore]], [[poção]] e [[vizinhos]]

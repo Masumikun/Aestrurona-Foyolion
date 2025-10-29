@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 18▫02▫04 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 18▫02▫04 
+date created: Monday, 27th ✦ Oct┆2025 ➣ 11▫20▫33
+date modified: Monday, 27th ✦ Oct┆2025 ➣ 11▫20▫33
 ---
+
 # Lorezin
 ## Lore
 Quando os historiadores estiverem entra na casa do epílogo do antigo escritor de magias, descobriram seu livro de invocação dos seres supremos sendo **5 irmãos** <span style="font-style:italic; font-weight:bold; color:rgb(100, 149, 237)">Quânticos</span>, que nasceram na *The Machine Ages* quando o primeiro irmão conhecido como:

@@ -1,7 +1,8 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 18▫08▫19 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 18▫08▫19 
+date created: Monday, 27th ✦ Oct┆2025 ➣ 11▫19▫28
+date modified: Monday, 27th ✦ Oct┆2025 ➣ 11▫19▫28
 ---
+
 🎴 TCG Furry
 
 ---

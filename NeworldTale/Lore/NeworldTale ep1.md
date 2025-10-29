@@ -1,6 +1,6 @@
 ---
-date created: Saturday, 25th ✦ Oct┆2025 ➣ 17▫45▫13 
-date modified: Saturday, 25th ✦ Oct┆2025 ➣ 17▫45▫13 
+date created: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫15▫15
+date modified: Tuesday, 28th ✦ Oct┆2025 ➣ 21▫15▫15
 tags:
   - NeworldTale
 status:
